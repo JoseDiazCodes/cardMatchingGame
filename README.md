@@ -97,4 +97,3 @@ Each card is a `div` with a class of `card` and a `data-emoji` attribute holding
 ## Conclusion
 
 This Card Matching Game is a fun and simple implementation of a classic memory game. By exploring the provided HTML, CSS, and JavaScript code, you can understand how the game mechanics work and even extend the game with additional features and styles. Enjoy coding and playing!
-# cardMatchingGame
